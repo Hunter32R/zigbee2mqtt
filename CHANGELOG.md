@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.35.4](https://github.com/Koenkk/zigbee2mqtt/compare/1.35.3...1.35.4) (2024-02-06)
+
+
+### Bug Fixes
+
+* **ignore:** update zigbee2mqtt-frontend to 0.6.157 ([#21269](https://github.com/Koenkk/zigbee2mqtt/issues/21269)) ([a479bf9](https://github.com/Koenkk/zigbee2mqtt/commit/a479bf9039248d0b0ebc7e0f65dfc8ff342090d4))
+
 ## [1.35.3](https://github.com/Koenkk/zigbee2mqtt/compare/1.35.2...1.35.3) (2024-02-06)
 
 
